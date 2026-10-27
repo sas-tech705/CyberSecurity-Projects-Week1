@@ -341,7 +341,7 @@ This lab is for **educational and authorized testing purposes only**. 🎓
 ## 👤 Author
 
 **Your Name** ✍️
-🔗 GitHub: [code8-web](https://github.com/code8-web)
-💼 LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
+🔗 GitHub: [sas-tech705](https://github.com/sas-tech705)
+💼 LinkedIn: [Abdul Samed Seidu](www.linkedin.com/in/abdul-samed-seidu-44678635a)
 
 ⭐ *If you found this project helpful, give it a star!*
