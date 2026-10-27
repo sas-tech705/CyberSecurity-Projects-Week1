@@ -342,6 +342,6 @@ This lab is for **educational and authorized testing purposes only**. 🎓
 
 **Your Name** ✍️
 🔗 GitHub: [sas-tech705](https://github.com/sas-tech705)
-💼 LinkedIn: [Abdul Samed Seidu](www.linkedin.com/in/abdul-samed-seidu-44678635a)
+💼 LinkedIn: [abdul-samed-seidu-44678635a](www.linkedin.com/in/abdul-samed-seidu-44678635a)
 
 ⭐ *If you found this project helpful, give it a star!*
